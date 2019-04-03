@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+    <string name="currency_conversion">Currency Conversion</string>
+    <string name="convert_to_inr">Convert to INR</string>
+</resources>

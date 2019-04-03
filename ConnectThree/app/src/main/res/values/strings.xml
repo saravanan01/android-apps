@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConnectThree</string>
+    <string name="playAgain">Play Again</string>
+</resources>
